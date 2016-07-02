@@ -7,7 +7,7 @@ var commandBuffer = [];
 var record = 0;
 var score = 0;
 const acceleration = 12.0;
-const roadSpeed = 3.5;
+var roadSpeed = 3.5;
 const g = 1.1;
 var prTimer;
 var jump = false;
